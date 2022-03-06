@@ -5,6 +5,9 @@
 
 ##Results
 -The stock performance in 2017 was superior to 2018 based on the analysis. Specifically, there was special attention given to "DQ" as it earned a return in 2017 of 199.4% vs a negative return in 2018 of - 62.6%.
+
 <img width="283" alt="VBA_Challenge 2018 Stock Data" src="https://user-images.githubusercontent.com/100330488/156904884-829c614e-a692-4a2e-90a3-043c485f0009.png">
 <img width="284" alt="VBA_Challenge 2017 Stock Data" src="https://user-images.githubusercontent.com/100330488/156904892-0c978485-fb26-4990-87b0-81f5035537e0.png">
+<img width="760" alt="VBA_Challenge_Code" src="https://user-images.githubusercontent.com/100330488/156904913-a18db42a-6c7a-4252-9e63-7ad0cabb9420.png">
+
 
