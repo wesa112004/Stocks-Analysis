@@ -1,4 +1,3 @@
-<img width="1283" alt="VBA_Challenge_Time 2018 original" src="https://user-images.githubusercontent.com/100330488/156905212-3387fa75-35fe-4581-82b1-a0c57355550c.png">
 #Stock Analysis With VBA
 
 ##Purpose:
@@ -15,3 +14,4 @@
 
 <img width="1512" alt="Screen Shot 2018_refactored 2022-03-05 at 2 03 30 PM" src="https://user-images.githubusercontent.com/100330488/156905014-356c1841-cff4-4fbb-9aa1-a498c9b405ef.png">
 <img width="1026" alt="VBA_Challenge_Times 2017 Original code" src="https://user-images.githubusercontent.com/100330488/156905216-a10e4585-7ccb-4537-89f9-4e90c21b4e57.png">
+<img width="1283" alt="VBA_Challenge_Time 2018 original" src="https://user-images.githubusercontent.com/100330488/156905236-4411d84b-4a0d-4a5e-b223-ed6fee3a7870.png">
